@@ -33,9 +33,9 @@
    <h2>Funcionalidades: Gerenciamento de tarefas.</h2>
    <div>
       <img width=300 alt='Tela inicial de Tarefas.' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/f362aefe-a94f-4f73-9352-8cc332f10dea"/>
-      <p>Tela inicial de Tarefas.</p>
+      <p>Tela inicial de tarefas sem dados.</p>
       <img width=300 alt='Tela inicial de Tarefas com dados.' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/6b5cf236-880e-42fd-951e-8b7083d66b75"/>
-      <p>Tela inicial de Tarefas.</p>
+      <p>Tela inicial de tarefas com dados.</p>
    </div>
 
    <div>
@@ -53,10 +53,34 @@
    </div>
 </div>
 
-<h2 align='center'>Funcionalidades: Gerenciamento de tempo (Pomodoro).</h2>
+<div align="center">
+   <h2 align='center'>Funcionalidades: Gerenciamento de tempo (Pomodoro).</h2>
+  <div>
+      <img width=300 alt='Tela inicial do Pomodoro sem dados.' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/33fc1671-a2e7-4514-a4fe-134ff28f10ed"/>
+      <p>Tela inicial do Pomodoro sem dados.</p>
+      <img width=300 alt='Tela inicial do Pomodoro com dados.' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/29aa7be4-51c0-464c-944f-295080d3719e"/>
+      <p>Tela inicial do Pomodoro com dados.</p>
+  </div>
+
+  <div>
+      <img width=300 alt='Tela de cadastro de um pomodoro' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/ddeb95d1-59be-4a4a-b70e-8747b102b9e7"/>
+      <p>Tela de cadastro de um pomodoro.</p>
+      <img width=300 alt='Tela de edição de um Pomodoro.' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/31ed3914-8457-47d3-b41d-cc2e510d074f"/>
+      <p>Tela de edição de um Pomodoro.</p>
+  </div>
+  
+  <div>
+      <img width=300 alt='Tela do Pomodoro (clock)' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/b7c19e8b-b050-4a8f-8eab-c7ccf617b932"/>
+      <p>Tela do Pomodoro (clock).</p>
+      <img width=300 alt='Tela finalização de todos os ciclos de Pomodoro.' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/25df2f52-b201-48fe-aef3-3465d895a044"/>
+      <p>Tela finalização de todos os ciclos de Pomodoro.</p>
+      <img width=300 alt='Modal de explicação do sistema pomodoro' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/13f4c0b8-e60c-4263-80dd-ba62b7332f3c"/>
+      <p>Modal de explicação do sistema Pomodoro.</p>
+  </div>
+</div>
+
 <h2 align='center'>Funcionalidades: Gerenciamento de disciplinas.</h2>
 <h2 align='center'>Funcionalidades: Gerenciamento de atividades avaliativas</h2>
-
 
 <h2 align='center'>Integrantes do projeto</h2> 
 <table align='center'>
