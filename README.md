@@ -1,4 +1,98 @@
-<h1 align="center"> Front-end: Guia de Configuração, Execução e Estrutura do projeto.</h1>
+<div align="center">
+  <h1 align="center">Struct, gerenciamento estudantil.</h1>
+  <img width=400hr src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/be388bd6-c11d-430d-8c32-9d83dfdfd261">
+</div>
+
+<div>  
+<h2 align='center'>Introdução ao Struct 🤖</h2>
+  <p align="justify">A ideia do Struct surgiu a partir da necessidade de organização estudantil notada pelos integrantes do grupo, uma vez que esses identificaram dificuldades em encontrar uma maneira efetiva que auxiliasse no processo de gerenciamento de estudos do cotidiano universitário.</p>
+  
+  <h4>Então, se você:</h4>
+  <ul>
+    <li>Já teve dificuldade de organizar suas disciplinas e seus materiais;</li>
+    <li>Não se lembra das datas das suas tarefas;</li>
+    <li>Já perdeu a conta da quantidade de faltas que já teve em um semestre;</li>
+    <li>Passou horas e horas calculando suas notas;</li>
+    <li>Sempre tira fotos da lousa e nunca passa pro caderno;</li>
+    <li>Já se sentiu improdutivo no semestre por desorganização (e começou a perceber que faltava tempo para aquele rolê universitário tão esperado 🍻🙃).</li>
+  </ul>
+  
+  <p align="center"><strong>O Struct chegou para facilitar sua vida acadêmica! Venha conhecê-lo!</strong><p> 
+</div>
+
+<div align="center">
+   <h2>Bem-vindo ao Struct: Informe suas credenciais.</h2>
+   <div>
+      <img width=300 alt='Tela inicial de Tarefas.' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/c2651d70-b919-4519-8c0c-f1b9e0d55260"/>
+      <p>Tela de login.</p>
+   </div>
+</div>
+
+
+<div align="center">
+   <h2>Funcionalidades: Gerenciamento de tarefas.</h2>
+   <div>
+      <img width=300 alt='Tela inicial de Tarefas.' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/f362aefe-a94f-4f73-9352-8cc332f10dea"/>
+      <p>Tela inicial de Tarefas.</p>
+      <img width=300 alt='Tela inicial de Tarefas com dados.' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/6b5cf236-880e-42fd-951e-8b7083d66b75"/>
+      <p>Tela inicial de Tarefas.</p>
+   </div>
+
+   <div>
+      <img width=300 alt='Tela de adição de uma nova tarefa.' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/527420e1-45a6-407f-a380-828974f1c43f"/>
+      <p>Tela de cadastro de uma tarefa.</p>
+      <img width=300 alt='Tela de edição de uma tarefa.' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/3bbda16c-e145-4c19-8951-6216bc213db0"/>
+      <p>Tela de edição de uma tarefa.</p>
+   </div>
+   
+   <div>
+      <img width=300 alt='Filtro de tarefas.' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/18c22770-1451-4ee4-8100-dade7dae023f"/>
+      <p>Tela de filtro de todas as tarefas.</p>
+      <img width=300 alt='Grafico de tarefas.' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/0df7f018-f5e2-4e64-96b7-afb47f04b99a"/>
+      <p>Tela de gráfico de todas as tarefas.</p>
+   </div>
+</div>
+
+<h2 align='center'>Funcionalidades: Gerenciamento de tempo (Pomodoro).</h2>
+<h2 align='center'>Funcionalidades: Gerenciamento de disciplinas.</h2>
+<h2 align='center'>Funcionalidades: Gerenciamento de atividades avaliativas</h2>
+
+
+<h2 align='center'>Integrantes do projeto</h2> 
+<table align='center'>
+    <tr>
+        <td>Nomes dos integrantes.</td>
+        <td>RA.</td>
+        <td>Perfil de usuário.</td>
+        <td>Área de atuação.</td>
+    </tr>
+    <tr>
+        <td>Anderson Correia.</td>
+        <td>0030482121036</td>
+        <td>Anderson815</td>
+        <td>Estudante de desenvolvimento Back-end.</td>
+    </tr>
+    <tr>
+        <td>Giovana Freitas.</td>
+        <td>0030482121007</td>
+        <td>Giovanaasf</td>
+        <td>Estudante de Gestão de Projetos.</td>
+     </tr>
+     <tr>
+        <td>Gustavo Rocha.</td>
+        <td>0030482121034</td>
+        <td>MyNameIsGustavo</td>
+        <td>Estudante de desenvolvimento Front-end e Mobile.</td>
+     </tr>
+     <tr>
+        <td>Nataly Rocha.</td>
+        <td>0030482121011</td>
+        <td>Nataly-costa</td>
+        <td>Estudante de desenvolvimento Back-end e Gestão de Projetos.</td>
+     </tr>
+</table>
+
+<h2 align="center"> Front-end: Guia de Configuração, Execução e Estrutura do projeto.</h2>
 
 Este é um guia para configurar e executar a aplicação mobile de gerenciamento de estudos universitários da FATEC - Sorocaba. Abaixo estão listadas as ferramentas necessárias, instruções de configuração e passos para executar o projeto.
 
