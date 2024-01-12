@@ -89,6 +89,13 @@
     <p>Tela inicial de disciplinas com dados</p>
   </div>
 
+   <div>
+    <img width=300 alt='Tela de cadastro de uma disciplina' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/a2f1a435-bdce-4987-910a-f15de527bff0"/>
+    <p>Tela de cadastro de uma disciplina</p>
+    <img width=300 alt='Tela de edição de uma disciplina' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/3c8a97ad-29a1-4c97-a5ac-d5262a6c8d8c"/>
+    <p>Tela de edição de uma disciplina</p>
+  </div>
+  
   <div>
     <img width=300 alt='Tela de filtros de disciplinas' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/9e8991f2-8f37-43f3-b20b-28aee0d01da5"/>
     <p>Tela de filtros de disciplinas</p>
