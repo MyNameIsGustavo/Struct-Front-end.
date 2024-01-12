@@ -98,8 +98,31 @@
   
 </div>
 
+<div align="center">
+  <h2 align='center'>Funcionalidades: Gerenciamento de atividades avaliativas</h2>
 
-<h2 align='center'>Funcionalidades: Gerenciamento de atividades avaliativas</h2>
+  <div>
+    <img width=300 alt='Tela inicial de atividades avaliativas' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/09915129-a79b-4b29-aab2-8044edc846fe"/>
+    <p>Tela inicial de atividades avaliativas</p>
+    <img width=300 alt='Tela inicial de atividades avaliativas com dados' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/de6932a9-563f-482d-8bbb-65b18468204d"/>
+    <p>Tela inicial de atividades avaliativas com dados</p>  
+  </div>
+
+  <div>
+    <img width=300 alt='Tela de cadastro de uma nova atividade avaliativa' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/f13057ad-da50-42eb-a4ed-d48d6c3ac9d6"/>
+    <p>Tela de cadastro de uma nova atividade avaliativa</p>
+    <img width=300 alt='Tela de edição de uma atividade avaliativa' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/6164e297-3cbc-4192-9ac5-9f96831da1dc"/>
+    <p>Tela de edição de uma atividade avaliativa</p>  
+  </div>
+
+  <div>
+    <img width=300 alt='Tela de filtro de todas atividades avaliativas' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/de5d0345-84e5-4181-8143-b83fb993fcb9"/>
+    <p>Tela de filtro de todas atividades avaliativas</p>
+  </div>
+  
+</div>
+
+
 
 <h2 align='center'>Integrantes do projeto</h2> 
 <table align='center'>
