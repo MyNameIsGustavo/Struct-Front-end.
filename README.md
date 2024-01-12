@@ -11,8 +11,10 @@
   <ul>
     <li>Já teve dificuldade de organizar suas disciplinas e seus materiais;</li>
     <li>Não se lembra das datas das suas tarefas;</li>
+    <li>Esta sempre se sentindo improdutivo;</li>
     <li>Já perdeu a conta da quantidade de faltas que já teve em um semestre;</li>
     <li>Passou horas e horas calculando suas notas;</li>
+    <li>Não consegue manter o foco durante o tempo de estudo;</li>
     <li>Sempre tira fotos da lousa e nunca passa pro caderno;</li>
     <li>Já se sentiu improdutivo no semestre por desorganização (e começou a perceber que faltava tempo para aquele rolê universitário tão esperado 🍻🙃).</li>
   </ul>
@@ -28,6 +30,51 @@
    </div>
 </div>
 
+<div align="center">
+  <h2>Funcionalidades: Gerenciamento de disciplinas.</h2>
+  <div>
+    <img width=300 alt='Tela inicial de disciplinas sem dados' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/f2146679-01f1-4812-aa5c-25e534e02d50"/>
+    <p>Tela inicial de disciplinas sem dados.</p>
+    <img width=300 alt='Tela inicial de disciplinas com dados' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/b38f0e17-6cc0-4eb2-a315-d608dd2d94bc"/>
+    <p>Tela inicial de disciplinas com dados.</p>
+  </div>
+
+   <div>
+    <img width=300 alt='Tela de cadastro de uma disciplina' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/a2f1a435-bdce-4987-910a-f15de527bff0"/>
+    <p>Tela de cadastro de disciplina.</p>
+    <img width=300 alt='Tela de edição de uma disciplina' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/3c8a97ad-29a1-4c97-a5ac-d5262a6c8d8c"/>
+    <p>Tela de edição de uma disciplina.</p>
+  </div>
+  
+  <div>
+    <img width=300 alt='Tela de filtros de disciplinas' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/9e8991f2-8f37-43f3-b20b-28aee0d01da5"/>
+    <p>Tela de filtros de disciplinas.</p>
+    <img width=300 alt='Tela de filtros de tarefas relacionadas com disciplinas' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/1e32fdc1-b030-4095-87e2-de5cbbcc3eac"/>
+    <p>Tela de filtros de tarefas por disciplinas.</p>  
+  </div>
+</div>
+
+<div align="center">
+  <h2>Funcionalidades: Gerenciamento de atividades avaliativas</h2>
+  <div>
+    <img width=300 alt='Tela inicial de atividades avaliativas sem dados' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/09915129-a79b-4b29-aab2-8044edc846fe"/>
+    <p>Tela inicial de atividades avaliativas sem dados.</p>
+    <img width=300 alt='Tela inicial de atividades avaliativas com dados' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/de6932a9-563f-482d-8bbb-65b18468204d"/>
+    <p>Tela inicial de atividades avaliativas com dados.</p>  
+  </div>
+
+  <div>
+    <img width=300 alt='Tela de cadastro de uma nova atividade avaliativa' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/f13057ad-da50-42eb-a4ed-d48d6c3ac9d6"/>
+    <p>Tela de cadastro de atividade avaliativa.</p>
+    <img width=300 alt='Tela de edição de uma atividade avaliativa' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/6164e297-3cbc-4192-9ac5-9f96831da1dc"/>
+    <p>Tela de edição de atividade avaliativa.</p>  
+  </div>
+
+  <div>
+    <img width=300 alt='Tela de filtro de todas atividades avaliativas' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/de5d0345-84e5-4181-8143-b83fb993fcb9"/>
+    <p>Tela de filtro de atividades avaliativas.</p>
+  </div>
+</div>
 
 <div align="center">
    <h2>Funcionalidades: Gerenciamento de tarefas.</h2>
@@ -79,55 +126,6 @@
   </div>
 </div>
 
-
-<div align="center">
-  <h2>Funcionalidades: Gerenciamento de disciplinas.</h2>
-  <div>
-    <img width=300 alt='Tela inicial de disciplinas' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/f2146679-01f1-4812-aa5c-25e534e02d50"/>
-    <p>Tela inicial de disciplinas</p>
-    <img width=300 alt='Tela inicial de disciplinas com dados' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/b38f0e17-6cc0-4eb2-a315-d608dd2d94bc"/>
-    <p>Tela inicial de disciplinas com dados</p>
-  </div>
-
-   <div>
-    <img width=300 alt='Tela de cadastro de uma disciplina' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/a2f1a435-bdce-4987-910a-f15de527bff0"/>
-    <p>Tela de cadastro de uma disciplina</p>
-    <img width=300 alt='Tela de edição de uma disciplina' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/3c8a97ad-29a1-4c97-a5ac-d5262a6c8d8c"/>
-    <p>Tela de edição de uma disciplina</p>
-  </div>
-  
-  <div>
-    <img width=300 alt='Tela de filtros de disciplinas' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/9e8991f2-8f37-43f3-b20b-28aee0d01da5"/>
-    <p>Tela de filtros de disciplinas</p>
-    <img width=300 alt='Tela de filtros de tarefas relacionadas com disciplinas' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/1e32fdc1-b030-4095-87e2-de5cbbcc3eac"/>
-    <p>Tela de filtros de tarefas relacionadas com disciplinas</p>  
-  </div>
-  
-</div>
-
-<div align="center">
-  <h2 align='center'>Funcionalidades: Gerenciamento de atividades avaliativas</h2>
-
-  <div>
-    <img width=300 alt='Tela inicial de atividades avaliativas' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/09915129-a79b-4b29-aab2-8044edc846fe"/>
-    <p>Tela inicial de atividades avaliativas</p>
-    <img width=300 alt='Tela inicial de atividades avaliativas com dados' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/de6932a9-563f-482d-8bbb-65b18468204d"/>
-    <p>Tela inicial de atividades avaliativas com dados</p>  
-  </div>
-
-  <div>
-    <img width=300 alt='Tela de cadastro de uma nova atividade avaliativa' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/f13057ad-da50-42eb-a4ed-d48d6c3ac9d6"/>
-    <p>Tela de cadastro de uma nova atividade avaliativa</p>
-    <img width=300 alt='Tela de edição de uma atividade avaliativa' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/6164e297-3cbc-4192-9ac5-9f96831da1dc"/>
-    <p>Tela de edição de uma atividade avaliativa</p>  
-  </div>
-
-  <div>
-    <img width=300 alt='Tela de filtro de todas atividades avaliativas' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/de5d0345-84e5-4181-8143-b83fb993fcb9"/>
-    <p>Tela de filtro de todas atividades avaliativas</p>
-  </div>
-  
-</div>
 
 
 
