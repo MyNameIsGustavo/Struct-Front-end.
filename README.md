@@ -79,7 +79,26 @@
   </div>
 </div>
 
-<h2 align='center'>Funcionalidades: Gerenciamento de disciplinas.</h2>
+
+<div align="center">
+  <h2>Funcionalidades: Gerenciamento de disciplinas.</h2>
+  <div>
+    <img width=300 alt='Tela inicial de disciplinas' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/f2146679-01f1-4812-aa5c-25e534e02d50"/>
+    <p>Tela inicial de disciplinas</p>
+    <img width=300 alt='Tela inicial de disciplinas com dados' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/b38f0e17-6cc0-4eb2-a315-d608dd2d94bc"/>
+    <p>Tela inicial de disciplinas com dados</p>
+  </div>
+
+  <div>
+    <img width=300 alt='Tela de filtros de disciplinas' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/9e8991f2-8f37-43f3-b20b-28aee0d01da5"/>
+    <p>Tela de filtros de disciplinas</p>
+    <img width=300 alt='Tela de filtros de tarefas relacionadas com disciplinas' src="https://github.com/MyNameIsGustavo/Struct-Front-end./assets/87160095/1e32fdc1-b030-4095-87e2-de5cbbcc3eac"/>
+    <p>Tela de filtros de tarefas relacionadas com disciplinas</p>  
+  </div>
+  
+</div>
+
+
 <h2 align='center'>Funcionalidades: Gerenciamento de atividades avaliativas</h2>
 
 <h2 align='center'>Integrantes do projeto</h2> 
